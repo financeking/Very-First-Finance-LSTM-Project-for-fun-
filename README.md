@@ -1,5 +1,5 @@
 # OUTPUT
-bash```
+```
 LSTMModel(
   (lstm): LSTM(1, 64, num_layers=2, batch_first=True, dropout=0.2)
   (fc1): Linear(in_features=64, out_features=32, bias=True)
