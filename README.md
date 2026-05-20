@@ -101,3 +101,4 @@ However, this is only an educational model. Stock prices are influenced by many 
 Therefore, this result should not be considered financial advice.
 ```# Very-First-Finance-LSTM-Project-for-fun-
 # Very-First-Finance-LSTM-Project-for-fun-
+# Very-First-Finance-LSTM-Project-for-fun-
