@@ -1,5 +1,5 @@
 # OUTPUT
-
+bash```
 LSTMModel(
   (lstm): LSTM(1, 64, num_layers=2, batch_first=True, dropout=0.2)
   (fc1): Linear(in_features=64, out_features=32, bias=True)
@@ -99,3 +99,4 @@ Based on the PyTorch LSTM forecast, the short-term trend appears to be negative 
 
 However, this is only an educational model. Stock prices are influenced by many external factors such as news, earnings reports, interest rates, macroeconomic conditions, and investor sentiment.
 Therefore, this result should not be considered financial advice.
+```
