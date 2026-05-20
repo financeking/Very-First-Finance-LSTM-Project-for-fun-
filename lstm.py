@@ -297,4 +297,4 @@ Based on the PyTorch LSTM forecast, the short-term trend appears to be {trend}.
 
 However, this is only an educational model. Stock prices are influenced by many external factors such as news, earnings reports, interest rates, macroeconomic conditions, and investor sentiment.
 Therefore, this result should not be considered financial advice.
-""")
+""")``
